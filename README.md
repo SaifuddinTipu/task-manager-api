@@ -9,9 +9,6 @@
 
 > Task management REST API with real-time Socket.io updates, advanced filtering, soft delete, and JWT refresh token rotation.
 
-🚀 **Live:** DEPLOYED_URL_PLACEHOLDER
-📖 **Base URL:** DEPLOYED_URL_PLACEHOLDER/api
-
 ---
 
 ## Features
